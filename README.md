@@ -39,10 +39,10 @@
 | Day33| ✓ Search in Rotated Sorted Array `Medium`  |
 | Day34| ✓ Combination Sum `Medium`                 |
 | Day35| ✓ Permutations `Medium`                    |
-| Day36|   Merge Intervals `Medium`                 |
+| Day36| ✓ Merge Intervals `Medium`                 |
 | Day37|   Meeting Scheduler `Medium`               |
 | Day38| ✓ Time Based Key-Value Store `Medium`      |
-| Day39|   Accounts Merge `Medium`                  |
+| Day39| ✓ Accounts Merge `Medium`                  |
 | Day40| ✓ Sort Colors `Medium`                     |
 | Day41|   String to Integer (atoi) `Medium`        |
 | Day42|   Spiral Matrix `Medium`                   |
